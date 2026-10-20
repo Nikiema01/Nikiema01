@@ -49,7 +49,7 @@ Practiced assessing and hardening a Windows 11 lab system against DISA STIG requ
 
 ## 🎯 Career Interests
 
-I'm seeking **cybersecurity internships and entry-level opportunities** in SOC analysis, threat analysis, vulnerability management, and cloud security, particularly in the **DC, Maryland, and Northern Virginia area**.
+I'm seeking cybersecurity internships and entry-level opportunities where I can apply my technical skills, contribute to a security team, and continue growing professionally.
 
 **Languages:** English and French
 
